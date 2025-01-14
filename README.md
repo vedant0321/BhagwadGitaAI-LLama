@@ -20,8 +20,7 @@
 ## 📂 Project Structure
 ```
 BhagwadGitaAI-LLaMA/
-├── data/
-│   └── Bhagwad_Gita.csv         # Dataset file
+├── Bhagwad_Gita.csv             # Dataset file
 ├── gita_llama.ipynb             # LLaMA fine-tuning notebook
 ├── gita_gradio.ipynb            # Gradio interface notebook
 ├── README.md                    # Project documentation
