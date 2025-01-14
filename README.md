@@ -26,6 +26,11 @@ BhagwadGitaAI-LLaMA/
 ├── README.md                    # Project documentation
 └── requirements.txt             # Required Python packages
 ```
+## 📊 Workflow
+Below is the flowchart representing the workflow of the Gita-LLaMA project:
+
+![Workflow](https://github.com/vedant0321/BhagwadGitaAI-LLama/blob/main/Flowchart.png)
+
 
 ## 📦 Installation
 1. Clone the repository:
